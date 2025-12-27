@@ -9,3 +9,7 @@ This class contains functions that authenticates with Salesforce, queries, updat
 **SalesforceService.cs** 
 
 This class  contains functions that invokes SalesforceClientUtility methods to execute queries, data updates and batch jobs for asynchronous data processing with Salesforce.
+
+**ISalesforceService.cs** 
+
+This is the interface class for SalesforceService.cs
